@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4430" data-name="Rectangle 4430" width="17" height="15" transform="translate(0.342 -0.002)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="RazerStore_Rewards_outlined_circle_icon" data-name="RazerStore Rewards outlined circle icon" transform="translate(5.57 6.707)">
+    <g id="Group_2280" data-name="Group 2280" transform="translate(0.088 0.294)" clip-path="url(#clip-path)">
+      <path id="Path_29466" data-name="Path 29466" d="M8.729,15.032h0L.5,4.86,3.792.5h9.874l3.292,4.36L8.728,15.032Z" transform="translate(-0.072 -0.144)" fill="none" stroke="#44d62c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Ellipse_310" data-name="Ellipse 310" transform="translate(-5.57 -6.707)" fill="none" stroke="#44d62c" stroke-width="1">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="13.5" fill="none"/>
+    </g>
+  </g>
+</svg>
